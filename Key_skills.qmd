@@ -1,0 +1,14 @@
+### Key skils
+
+|  |
+|:-----------------------------------------------------------------------|
+| **Languge** <br> Danish (native languge), English (fluent), Norvigian (fluent) and German (basic) |
+| **Data processing and statistical analyis** <br> • Handeling and processing large data sheets <br> • Data wrangling, statistical analyses and data visualisation in R <br> • Developed R scripts for processing and analysis of respiratory data <br> • Image analysis of lens sizes in birds and measuring body condition in whales using ImageJ |
+| **Laboratory** <br> • Fish reproduction, anaesthesia and euthanasia <br> •	Counting fish eggs under a microscope <br> •	Measuring resting and maximal metabolic rates  <br> •	Measuring both O2 use, and CO2 production in fish <br> •	Manipulating hypoxia and hyperoxia during respirometry  <br> •	Tagging with visible elastomer and implanted tags (PIT tags)  <br> •	Snake surgery (cannulation) <br> •	Fish experimentation (IP injections and dissections)  <br> •	Western blotting and fluorescence protein labelling <br> •	Video tracking of fish behaviour <br> •	Metabolic measurements of small organisms such as copepods and mitochondria  |
+| **Feild** <br>  •	Monitoring fish population on coral reefs <br> •	Transept surveys both on land and underwater |
+| **Administrative** <br>  •	Reporting and organising data <br> •	Invoice handeling <br> •	Planing and leading projects of different sizes  |
+
+### Licences
+|  |  |
+|:----------------------------------------------------|------------------:|
+| **Driving licence**, Dansih category AM/B <br> **Moterboat licence**, Danish category ??? <br> **Diving licences**, PADI Advanced Open Water <br> **Animal experimental license**, Danish category B |

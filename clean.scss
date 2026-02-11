@@ -1,0 +1,19 @@
+// based on this template: https://github.com/grantmcdermott/quarto-revealjs-clean/blob/main/_extensions/clean/clean.scss, but with some slight modifications
+/*-- scss:defaults --*/
+
+// Custom colours and variables
+$jet: #131516;
+$accent: #418c60;
+//$accent: #2e6fa9;
+
+// fonts
+@import url(https://fonts.googleapis.com/css?family=Roboto:200,200i,300,300i,350,350i,400,400i);
+@import url(https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap);
+//$font-family-sans-serif: "Roboto", sans-serif !default;
+$font-family-sans-serif: "Lato", sans-serif !default;
+
+// colors
+//$body-bg: #f0f1eb !default;
+$body-color: $jet !default;
+$link-color: $accent !default;
+$selection-bg: #26351c !default;

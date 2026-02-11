@@ -1,0 +1,35 @@
+---
+title: ""
+subtitle: "**Alexander Rosén** <br> PhD in Eco-physiology <br> Aqua: National Institute of Aquatic Resources <br> Technical University of Denmark (DTU)  "
+image: picture_greenland.jpg
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  links: 
+    - text: Mail
+      icon: envelope
+      url: "mailto:axdrosen@gmail.com"
+    - text: Scholar
+      icon: google
+      url: https://https://scholar.google.com/citations?user=6sPTBpkAAAAJ&hl=en
+    - text: LinkedIn
+      icon: linkedin
+      url: https://https://https://www.linkedin.com/in/alexander-ros%C3%A9n-9b62ab1b6/
+comments: false
+---
+
+::: g-col-8
+**This website is under construktion!**
+Hi! I am an experimental Eco-Physiologist, recently having completed and defended my PhD, "Growth and metabolic scaling of fish" at DTU Aqua in Lyngby, Denmark. Being a experimental Eco-Physiologist means that I conduct experiments to find out how animals are adapted to there environment and how they respond to changes. I then use quantitative data analysis to examine how my and others data can help explain ecological reposes.
+
+My research has mainly focused on:
+
+-   Whole body animal energetic (determining minimum and maximum energy use and thus energetic budget)
+-   How metabolic rate scales with body size (see short video about what scaling is)
+-   Trade-offs between growth rate and energy use
+-   Impact of anthropocentric changes on metabolic rate in tropical and arctic environments
+-   Measurement of protein synthesis following meal ingestion
+
+When I am not in the lab running respiratory on fish or collecting copepods in Greenland, I like to play board games with friends or be out in nature. In fact, I am equally ecstatic sitting in my tent in a remote mountain valley in northern Sweden by myself as I am playing hour-long board games with my buddies, though in both cases I will be enjoying a good cup of tea. When I am doing neither of these things, I enjoy cooking food, with a particular fondness for making Danish ryebread, and reading lengthy fantasy books.
+:::
