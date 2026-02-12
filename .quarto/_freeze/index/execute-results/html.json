@@ -1,0 +1,15 @@
+{
+  "hash": "1f78bea85257c603b278ced84c5f2bbb",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"\"\nsubtitle: \"**Alexander Rosén** <br> PhD in Eco-physiology <br> Aqua: National Institute of Aquatic Resources <br> Technical University of Denmark (DTU)  \"\nimage: picture_greenland.jpg\nabout:\n  template: trestles\n  image-width: 20em\n  image-shape: round\ncomments: false\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
