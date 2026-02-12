@@ -1,47 +1,17 @@
 {
   "index.qmd": {
-    "index.html": "b44713e0"
-  },
-  "about.qmd": {
-    "about.html": "645ea611"
-  },
-  "Contact/Contact.qmd": {
-    "Contact.html": "7082e8b6"
-  },
-  "CV/CV.qmd": {
-    "CV.html": "d25a6834"
-  },
-  "CV.qmd": {
-    "CV.html": "b712ee45"
-  },
-  "Key_skills/Skills.qmd": {
-    "Skills.html": "cc3aeede"
-  },
-  "Publications_and_outreach/What_I_have_done.qmd": {
-    "What_I_have_done.html": "e27dcc77"
-  },
-  "Publications_and_outreach/index.qmd": {
-    "index.html": "632775a5"
-  },
-  "Key_skills/index.qmd": {
-    "index.html": "38e238f6"
-  },
-  "Contact/index.qmd": {
-    "index.html": "39800adc"
-  },
-  "CV/index.qmd": {
-    "index.html": "1201ee2d"
-  },
-  "Publications_and_outreach/Publications_and_outreach.qmd": {
-    "Publications_and_outreach.html": "5869c53b"
-  },
-  "Publications_and_outreach.qmd": {
-    "Publications_and_outreach.html": "d46c2169"
-  },
-  "Key_skills.qmd": {
-    "Key_skills.html": "c485f06f"
+    "index.html": "3ad2f44c"
   },
   "Contact.qmd": {
-    "Contact.html": "19bfbab9"
+    "Contact.html": "b2137b07"
+  },
+  "CV.qmd": {
+    "CV.html": "c768cbc7"
+  },
+  "Key_skills.qmd": {
+    "Key_skills.html": "d31074a1"
+  },
+  "Publications_and_outreach.qmd": {
+    "Publications_and_outreach.html": "3e49af25"
   }
 }
