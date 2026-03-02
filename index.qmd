@@ -15,18 +15,18 @@ about:
       url: https://scholar.google.com/citations?user=6sPTBpkAAAAJ&hl=en
     - text: LinkedIn
       icon: linkedin
-      url: https://https://www.linkedin.com/in/alexander-ros%C3%A9n-9b62ab1b6/
+      url: https://www.linkedin.com/in/alexander-ros%C3%A9n-9b62ab1b6/
 comments: false
 ---
 
 ::: g-col-8
-**This website is under construktion!** <br>
+
 Hi! I am an experimental Eco-Physiologist, having recently completed and defended my PhD, “Growth and metabolic scaling of fish”, at DTU Aqua in Lyngby, Denmark. Being an experimental Eco-Physiologist means that I conduct experiments to understand how animals are adapted to their environment and how they respond to changes. I then use quantitative data analysis to examine how my and others' data can help explain ecological responses.
 
 My research has mainly focused on:
 
 -   Whole body animal energetic (determining minimum and maximum energy use and thus energetic budget)
--   How metabolic rate scales with body size (see short video about what scaling is)
+-   How metabolic rate scales with body size 
 -   Trade-offs between growth rate and energy use
 -   Impact of anthropocentric changes on metabolic rate in tropical and arctic environments
 -   Measurement of protein synthesis following meal ingestion
