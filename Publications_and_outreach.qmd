@@ -11,28 +11,34 @@ profile](https://scholar.google.com/citations?user=6sPTBpkAAAAJ&hl=en)
 
 #### Publications
 
+
+5\. Andreassen, A. H., Extern, J., **Rosén, A.**, Norin, T. 2026. Linking aerobic
+scope with growth and maturation. *Proceedings of the Royal Society B*. 293(2071)
+<https://doi.org/10.1098/rspb.2025.2614>
+
 4\. **Rosén, A.**, Andreassen, A.H., Storm, Z., Exsteen, J.F., Moesby,
 A.F., Raqbi, S., Beldade, R., Mills, S. C., Norin, T. 2026. Co-variation
 and trade-offs in ontogenetic scaling of growth and metabolic rates in
-teleost fish. *Communications Biology*.
+teleost fish. *Communications Biology*. 9, 338(2026)
 <https://doi.org/10.1038/s42003-026-09588-w>
 
 3\. Andreassen, A.H., **Rosén, A**., Norin, T. 2026. Ontogenetic growth
-and size-at-age shape metabolic scaling. *Journal of Experimental
-Biology*. 229(2), jeb250868. <https://doi.org/10.1242/jeb.250868>
+and size-at-age shape metabolic scaling. *Journal of Experimental Biology*. 229(2), jeb250868. <https://doi.org/10.1242/jeb.250868>
 
 2\. **Rosén, A.** 2025. Growth and metabolic scaling of fish:
-Unravelling how variation in growth affects metabolic scaling. *PhD
-thesis*.
+Unravelling how variation in growth affects metabolic scaling. *PhD thesis*.
 <https://orbit.dtu.dk/en/publications/growth-and-metabolic-scaling-of-fish-unravelling-how-variation-in/>
 
 1\. Tiddy, I.C, Neil, C.M., **Rosén, A.**, Hasegawa, Y., Domenici, P.,
 Johansen, J.L., Steffensen, J.F. 2025. Effects of social environment and
 energy efficiency on preferred swim speed in a marine generalist fish,
-pile perch (Phanerodon vacca) *Journal of Experimental Biology*. 228(5),
-JEB249546 <https://doi.org/10.1242/jeb.249546>
+pile perch (Phanerodon vacca). *Journal of Experimental Biology*. 228(5),JEB249546 <https://doi.org/10.1242/jeb.249546>
 
 #### Preprints, submittet papers and current working papers
+
+**Rosén, A.**, Strom, Z., Mills, S. C. & Norin T. Effect of food
+availability on the ontogenetic (co)scaling of metabolic rate and growth
+rate in fish submitted to *Journal of experimental biology*
 
 **Rosén, A.**, Andreassen, A.H, Nielsen, T., Norin, T. The effect of
 lower salinity and higher temperatures on metabolic rates in artic
@@ -41,14 +47,6 @@ copepods.(manuscript in preperation)
 **Rosén, A.**, Andreassen, A. H., Norin, T. Scaling of animal
 biological rates at different taxonomic levels”. (Submitted invited book
 chapter)
-
-Andreassen, A. H., Extern, J., **Rosén, A.**, Norin, T. “Linking aerobic
-scope with growth and maturation” (resubmitted to Proceedings of the
-Royal Society B)
-
-**Rosén, A.**, Strom, Z., Mills, S. C. & Norin T. Effect of food
-availability on the ontogenetic (co)scaling of metabolic rate and growth
-rate in fish (manuscript in preparation)
 
 **Rosén, A.**, Mills, S. C. & Norin, T. Shining a light on it: Repeated
 measurements of metabolism and growth on fish in the wild under the
